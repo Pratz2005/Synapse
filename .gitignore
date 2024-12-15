@@ -1,0 +1,35 @@
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+
+# Ignore IDE/Editor files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Ignore environment variable files
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.pid
+
+# Ignore compiled files
+*.so
+*.dll
+*.exe
+
+# Ignore node_modules for frontend projects (if applicable)
+node_modules/
+
+# Ignore database files
+*.sqlite3
