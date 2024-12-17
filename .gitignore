@@ -14,8 +14,7 @@ env/
 .vscode/
 .idea/
 
-# Ignore environment variable files
-.env
+
 
 # Ignore logs and temporary files
 *.log
